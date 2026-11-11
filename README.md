@@ -18,7 +18,11 @@ Doing this by hand is slow and easy to make arithmetic mistakes. I built this wo
 
 ## How It Works (Step-by-Step)
 
-Here is the high-level workflow:
+### Workflow Graph in n8n
+
+![Autonomous Equity Portfolio Rebalancer Workflow Canvas](assets/workflow-canvas.png)
+
+### Execution Pipeline
 
 ```mermaid
 flowchart LR
